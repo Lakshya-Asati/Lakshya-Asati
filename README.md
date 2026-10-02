@@ -1,25 +1,23 @@
 <div align="center">
 
-      <!-- Animated Typing SVG Header -->
-      <a href="https://github.com/Lakshya-Asati">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there,+
+    <a href="https://github.com/Lakshya-Asati">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there,+
   I'm+Lakshya+Asati+👋;Computer+Science+Engineer;Machine+Learning+%26+Backend+Developer;Java+%26+Python+Enthusiast" alt="Typing SVG" />
+    </a>
+
+    <p align="center">
+      <b>Aspiring Software & Machine Learning Engineer</b> passionate about building intelligent systems and robust backend applications.
+    </p>
+
+    <p align="center">
+      <a href="mailto:lakshyaasati176@gmail.com">
+        <img src="https://img.shields.io/badge/Email-lakshyaasati176%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
-
-      <p align="center">
-        <b>Aspiring Software & Machine Learning Engineer</b> passionate about building intelligent systems and robust backend applications.
-      </p>
-
-      <!-- Social & Profile Badges -->
-      <p align="center">
-        <a href="mailto:lakshyaasati176@gmail.com">
-          <img src="https://img.shields.io/badge/Email-lakshyaasati176%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://linkedin.com/in/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <img src="https://komarev.com/ghpvc/?username=Lakshya-Asati&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
-      </p>
+      <a href="https://linkedin.com">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=Lakshya-Asati&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+    </p>
 
     </div>
 
@@ -49,8 +47,8 @@
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-
   013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
-    | **Backend & Development** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST
-  API](https://img.shields.io/badge/REST_API-02569B?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-
+    | **Backend & Tools** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST API](https://img.
+  shields.io/badge/REST_API-02569B?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-
   square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.
   shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
@@ -85,23 +83,14 @@
 
     <div align="center">
 
-      <!-- GitHub Stats Card -->
-      <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lakshya-
+    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lakshya-
   Asati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-      <!-- Top Languages Card -->
-      <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya-
+    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya-
   Asati&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-      <br/><br/>
+    <br/><br/>
 
-      <!-- GitHub Streak Card -->
-      <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-Asati&theme=tokyonight&hide_border=true" />
+    <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-Asati&theme=tokyonight&hide_border=true" />
 
-    </div>
-
-    ---
-
-    <div align="center">
-      <sub>Designed with ❤️ by <a href="https://github.com/Lakshya-Asati">Lakshya Asati</a></sub>
     </div>
